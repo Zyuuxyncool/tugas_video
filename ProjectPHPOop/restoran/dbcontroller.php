@@ -48,9 +48,9 @@
 
     }
 
-    $db = new DB;
+    // $db = new DB;
 
-    $db->pesan("berhasil");
+    // $db->pesan("berhasil");
 
     // $db->runSQL("INSERT INTO tblkategori VALUES ('','Minuman')");
     // $db->runSQL("DELETE FROM tblkategori WHERE idkategori = 25");
